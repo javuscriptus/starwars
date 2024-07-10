@@ -1,0 +1,13 @@
+.character-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.character-header h2 {
+  margin: 0;
+}
+
+.back-button {
+  margin-left: 10px;
+}
